@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#002040</color>
+    <color name="colorPrimaryDark">#002040</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="splash_bg">#4069E3</color>
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+
+    <color name="dot_dark_inactive">#c5c5c5</color>
+    <color name="blue">#4069E3</color>
+    <color name="dark_blue">#002040</color>
+
+
+    <color name="toast_txtColour_green">#2DC76D</color>
+    <color name="light_green">#E9F9F0</color>
+    <color name="grey">#C2B9B9</color>
+
+
+    <array name="array_dot_active">
+        <item>@color/black</item>
+        <item>@color/black</item>
+        <item>@color/black</item>
+        <item>@color/black</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_inactive</item>
+        <item>@color/dot_dark_inactive</item>
+        <item>@color/dot_dark_inactive</item>
+        <item>@color/dot_dark_inactive</item>
+    </array>
+
+
+</resources>
